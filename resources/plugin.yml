@@ -1,4 +1,4 @@
 name: BeefyCore
-main:
+main: net.angusbeefgaming.beefycore.Main
 version: 1.0
 commands:
