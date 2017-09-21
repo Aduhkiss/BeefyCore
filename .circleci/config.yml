@@ -11,6 +11,8 @@ jobs:
     
     steps:
 
+
+      - run: ls
       # run tests!
       - run: mvn package
 
